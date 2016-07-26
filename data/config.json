@@ -1,0 +1,14 @@
+
+{
+    "aws": {
+        "accessKeyId": "",
+        "secretAccessKey": "",
+        "bucket": "googleinstaller"
+    },
+    "platform": [
+        "arm",
+        "arm64",
+        "x86",
+        "x86_64"
+    ]
+}

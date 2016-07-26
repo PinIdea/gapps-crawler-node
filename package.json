@@ -1,0 +1,16 @@
+{
+  "name": "gapps",
+  "version": "1.0.0",
+  "description": "GApps to AWS S3 Uploader",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xatrix",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "needle": "^1.0.0",
+    "unzip": "^0.1.11"
+  }
+}
